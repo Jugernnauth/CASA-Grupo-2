@@ -1,4 +1,4 @@
 SALA: VACÍA
 COCINA: VACÍA
-HABITACION: VACÍA
+HABITACION: Cama, lamapara de techo, lueces alrrededor de la habitacion, televisor, chromecast, mesa de noche, lampara de mesa de noche, humidificador, platas, cortinas, sabanas, armarios, ropa, zapatos.
 JARDIN: VACÍA
