@@ -1,4 +1,4 @@
 SALA: VACÍA
 COCINA: VACÍA
-HABITACION: Cama, lamapara de techo, lueces alrrededor de la habitacion, televisor, chromecast, mesa de noche, lampara de mesa de noche, humidificador, platas, cortinas, sabanas, armarios, ropa, zapatos.
+HABITACION: Cama, almohadas, lampara de techo, luces led alrededor de la habitacion, proyector portatil, chromecast, mesas de noche, lampara de mesa de noche, humidificador, platas, cortinas, sabanas, armarios, ropa, zapatos, consola de videojuegos 3 en 1(PS5,Xbox Series X, Nintendo Switch), dispositivo Iot Alexa, cuadros de pintura, tapete tejido a mano, escritorio, silla gamer, ventilador de portatil gamer, portatil gamer, pantallas de extensión para portatil.
 JARDIN: VACÍA
